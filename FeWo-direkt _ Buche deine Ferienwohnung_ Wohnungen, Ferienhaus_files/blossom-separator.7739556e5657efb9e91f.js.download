@@ -1,0 +1,3 @@
+/*@license For license information please refer to blossom-separator.licenses.txt*/
+(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[3032],{85825:function(e,t,a){a.r(t),a.d(t,{Separator:function(){return l}});var r=a(96540),n=a(50224),i=a(94220),l=(0,n.L)("context")((function(e){var t=e.templateComponent;if(!t)return null;var a=t.config,n=a.view,l=a.spacing;return"simple"===n?r.createElement(i.b,{padding:{blockstart:l}},r.createElement("div",{"data-testid":"simple-separator"})):r.createElement(i.c,{blockMargin:l})}));l.displayName="Separator",t.default=l}}]);
+//# sourceMappingURL=https://bernie-assets.s3.us-west-2.amazonaws.com/lotus-home-ui/blossom-separator.7739556e5657efb9e91f.js.map
